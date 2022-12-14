@@ -1,0 +1,24 @@
+;meta[language=de]
+; id      |key(hex)|key(str)| text
+;
+; comment lines use ; as first character
+; all comment lines (except the two line header) will be ignored
+; Friendly Focus (Witcher Sense Tweaks)'s Nexus ID is 4261 so left is 211-4261-xxxx
+; $local = 'ar','br','cz','de','en','es','fr','hu','it','jp','kr','ru','zh','pl'
+2114261000|        |panel_Mods|Mods
+2114261001|        |panel_ff_name|Friendly Focus
+2114261002|        |preset_Mods_ff_name|Version 1.3.1
+2114261003|        |preset_value_ff_recommended|Empfohlen
+2114261004|        |preset_value_ff_vanilla|Vanilla
+2114261005|        |option_ff_enableDimmEffect|Bildschirm Dimm Effekt beim Fokus start
+2114261006|        |option_ff_enableSoundEffect|Rausch Sound Effekt beim Fokus start
+2114261007|        |option_ff_enableFadeEffect|Sofortige Aktivierung der Witcher Sinne
+2114261008|        |option_ff_enableAmbientEffect|Umgebungs Geräusch Effekt während Focus
+2114261009|        |option_ff_enableZoomEffect|Zoom Effekt über Schulter beim Fokus start
+2114261010|        |option_ff_enableJumpBlock|Sprung Block während Fokus
+2114261011|        |option_ff_enableSprintBlock|Sprint Block während Fokus
+2114261012|        |option_ff_enableHoldFocus|Taste halten für Fokus
+2114261013|        |option_ff_enableCatFocus|Katzen Sicht während Fokus
+2114261014|        |option_ff_enableHighlightEffect|Leuchten von Items/Hinweisen während Fokus
+2114261015|        |option_ff_enableCorpseEffect|Leichen Partikel während Fokus
+2114261016|        |option_ff_enableMonsterEffect|Monster Sound Effekt während Fokus
