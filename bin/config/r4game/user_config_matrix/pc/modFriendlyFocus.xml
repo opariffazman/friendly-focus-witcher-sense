@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-16"?>
 <UserConfig>
-	<Group id="FriendlyFocus" displayName="Mods.ff_name">
-		<PresetsArray>
-			<Preset id="0" displayName="ff_recommended">
-				<Entry varId="ffEnableDimmEffect" value="false"/>
-				<Entry varId="ffEnableSoundEffect" value="false"/>
-				<Entry varId="ffEnableFadeEffect" value="false"/>
-				<Entry varId="ffEnableAmbientEffect" value="false"/>
-				<Entry varId="ffEnableZoomEffect" value="false"/>
-				<Entry varId="ffEnableJumpBlock" value="false"/>
-				<Entry varId="ffEnableSprintBlock" value="false"/>
-				<Entry varId="ffEnableHoldFocus" value="false"/>
-				<Entry varId="ffEnableCatFocus" value="false"/>
-				<Entry varId="ffEnableHighlightEffect" value="false"/>
-				<Entry varId="ffEnableCorpseEffect" value="false"/>
-				<Entry varId="ffEnableMonsterEffect" value="false"/>
-				<Entry varId="ffVersion" value="1.4"/>
-			</Preset>
-			<Preset id="1" displayName="ff_vanilla">
-				<Entry varId="ffEnableDimmEffect" value="true"/>
-				<Entry varId="ffEnableSoundEffect" value="true"/>
-				<Entry varId="ffEnableFadeEffect" value="true"/>
-				<Entry varId="ffEnableAmbientEffect" value="true"/>
-				<Entry varId="ffEnableZoomEffect" value="true"/>
-				<Entry varId="ffEnableJumpBlock" value="true"/>
-				<Entry varId="ffEnableSprintBlock" value="true"/>
-				<Entry varId="ffEnableHoldFocus" value="true"/>
-				<Entry varId="ffEnableCatFocus" value="false"/>
-				<Entry varId="ffEnableHighlightEffect" value="true"/>
-				<Entry varId="ffEnableCorpseEffect" value="true"/>
-				<Entry varId="ffEnableMonsterEffect" value="true"/>
-				<Entry varId="ffVersion" value="1.4"/>
-			</Preset>
-		</PresetsArray>
-		<VisibleVars>
-			<Var id="ffEnableDimmEffect" displayName="ff_enableDimmEffect" displayType="TOGGLE" />
-			<Var id="ffEnableSoundEffect" displayName="ff_enableSoundEffect" displayType="TOGGLE" />
-			<Var id="ffEnableFadeEffect" displayName="ff_enableFadeEffect" displayType="TOGGLE" />
-			<Var id="ffEnableAmbientEffect" displayName="ff_enableAmbientEffect" displayType="TOGGLE" />
-			<Var id="ffEnableZoomEffect" displayName="ff_enableZoomEffect" displayType="TOGGLE" />
-			<Var id="ffEnableJumpBlock" displayName="ff_enableJumpBlock" displayType="TOGGLE" />
-			<Var id="ffEnableSprintBlock" displayName="ff_enableSprintBlock" displayType="TOGGLE" />
-			<Var id="ffEnableHoldFocus" displayName="ff_enableHoldFocus" displayType="TOGGLE" />
-			<Var id="ffEnableCatFocus" displayName="ff_enableCatFocus" displayType="TOGGLE" />
-			<Var id="ffEnableHighlightEffect" displayName="ff_enableHighlightEffect" displayType="TOGGLE" />
-			<Var id="ffEnableCorpseEffect" displayName="ff_enableCorpseEffect" displayType="TOGGLE" />
-			<Var id="ffEnableMonsterEffect" displayName="ff_enableMonsterEffect" displayType="TOGGLE" />
-			<Var id="ffVersion" displayName="Mods_ff_version" displayType="SLIDER;0;50;50000" visibilityCondition="hideAlways"/>
-		</VisibleVars>
-	</Group>
+		<Group id="FriendlyFocus" displayName="Mods.ff_name">
+			<PresetsArray>
+				<Preset id="0" displayName="ff_recommended">
+					<Entry varId="ffEnableDimmEffect" 		value="false"/>
+					<Entry varId="ffEnableSoundEffect" 		value="false"/>
+					<Entry varId="ffEnableFadeEffect" 		value="false"/>
+					<Entry varId="ffEnableAmbientEffect" 	value="false"/>
+					<Entry varId="ffEnableZoomEffect" 		value="false"/>
+					<Entry varId="ffEnableJumpBlock" 		value="false"/>
+					<Entry varId="ffEnableSprintBlock" 		value="false"/>
+					<Entry varId="ffEnableHoldFocus" 		value="false"/>
+					<Entry varId="ffEnableCatFocus" 		value="false"/>
+					<Entry varId="ffEnableHighlightEffect" 	value="false"/>
+					<Entry varId="ffEnableCorpseEffect" 	value="false"/>
+					<Entry varId="ffEnableMonsterEffect" 	value="false"/>
+					<Entry varId="ffVersion" 				value="1.4"/>
+				</Preset>
+				<Preset id="1" displayName="ff_vanilla">
+					<Entry varId="ffEnableDimmEffect" 		value="true"/>
+					<Entry varId="ffEnableSoundEffect" 		value="true"/>
+					<Entry varId="ffEnableFadeEffect" 		value="true"/>
+					<Entry varId="ffEnableAmbientEffect" 	value="true"/>
+					<Entry varId="ffEnableZoomEffect" 		value="true"/>
+					<Entry varId="ffEnableJumpBlock" 		value="true"/>
+					<Entry varId="ffEnableSprintBlock" 		value="true"/>
+					<Entry varId="ffEnableHoldFocus" 		value="true"/>
+					<Entry varId="ffEnableCatFocus" 		value="false"/>
+					<Entry varId="ffEnableHighlightEffect" 	value="true"/>
+					<Entry varId="ffEnableCorpseEffect" 	value="true"/>
+					<Entry varId="ffEnableMonsterEffect" 	value="true"/>
+					<Entry varId="ffVersion" 				value="1.4"/>
+				</Preset>
+			</PresetsArray>
+			<VisibleVars>
+				<Var id="ffEnableDimmEffect" displayName="ff_enableDimmEffect" displayType="TOGGLE" />
+				<Var id="ffEnableSoundEffect" displayName="ff_enableSoundEffect" displayType="TOGGLE" />
+				<Var id="ffEnableFadeEffect" displayName="ff_enableFadeEffect" displayType="TOGGLE" />
+				<Var id="ffEnableAmbientEffect" displayName="ff_enableAmbientEffect" displayType="TOGGLE" />
+				<Var id="ffEnableZoomEffect" displayName="ff_enableZoomEffect" displayType="TOGGLE" />
+				<Var id="ffEnableJumpBlock" displayName="ff_enableJumpBlock" displayType="TOGGLE" />
+				<Var id="ffEnableSprintBlock" displayName="ff_enableSprintBlock" displayType="TOGGLE" />
+				<Var id="ffEnableHoldFocus" displayName="ff_enableHoldFocus" displayType="TOGGLE" />
+				<Var id="ffEnableCatFocus" displayName="ff_enableCatFocus" displayType="TOGGLE" />
+				<Var id="ffEnableHighlightEffect" displayName="ff_enableHighlightEffect" displayType="TOGGLE" />
+				<Var id="ffEnableCorpseEffect" displayName="ff_enableCorpseEffect" displayType="TOGGLE" />
+				<Var id="ffEnableMonsterEffect" displayName="ff_enableMonsterEffect" displayType="TOGGLE" />
+				<Var id="ffVersion" displayName="Mods_ff_version" displayType="SLIDER;0;50;50000"  visibilityCondition="hideAlways"/>
+			</VisibleVars>
+		</Group>
 </UserConfig>
