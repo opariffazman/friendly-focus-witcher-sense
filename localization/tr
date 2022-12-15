@@ -1,0 +1,24 @@
+;meta[language=tr]
+; id      |key(hex)|key(str)| text
+;
+; comment lines use ; as first character
+; all comment lines (except the two line header) will be ignored
+; Friendly Focus (Witcher Sense Tweaks)'s Nexus ID is 7167 so left is 211-7167-xxxx
+; $local = 'ar','br','cz','de','en','es','fr','hu','it','jp','kr','ru','zh','pl'
+2117167000|        |panel_Mods|Mods
+2117167001|        |panel_ff_name|Friendly Focus
+2117167002|        |preset_Mods_ff_name|Version 1.4
+2117167003|        |preset_value_ff_recommended|Recommended
+2117167004|        |preset_value_ff_vanilla|Vanilla
+2117167005|        |option_ff_enableDimmEffect|Screen Dimm Effect Entering Focus
+2117167006|        |option_ff_enableSoundEffect|Whoosh Sound Effect Entering Focus
+2117167007|        |option_ff_enableFadeEffect|Fade Transition Entering and Exiting Focus
+2117167008|        |option_ff_enableAmbientEffect|Ambient Environment Sound Effect During Focus
+2117167009|        |option_ff_enableZoomEffect|Zoom To Shoulder Effect During Focus
+2117167010|        |option_ff_enableJumpBlock|Jump Restriction During Focus
+2117167011|        |option_ff_enableSprintBlock|Sprint Restriction During Focus
+2117167012|        |option_ff_enableHoldFocus|Hold to Enter Focus
+2117167013|        |option_ff_enableCatFocus|Cat Vision During Focus
+2117167014|        |option_ff_enableHighlightEffect|Visual Highlight During Focus
+2117167015|        |option_ff_enableCorpseEffect|Corpse Particles During Focus
+2117167016|        |option_ff_enableMonsterEffect|Monster Ripples During Focus
