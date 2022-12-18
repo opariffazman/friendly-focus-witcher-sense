@@ -15,7 +15,7 @@
 					<Entry varId="ffEnableHighlightEffect" 	value="false"/>
 					<Entry varId="ffEnableCorpseEffect" 	value="false"/>
 					<Entry varId="ffEnableMonsterEffect" 	value="false"/>
-					<Entry varId="ffVersion" 				value="1.4"/>
+					<Entry varId="ffVersion" 				value="1.5"/>
 				</Preset>
 				<Preset id="1" displayName="ff_vanilla">
 					<Entry varId="ffEnableDimmEffect" 		value="true"/>
@@ -30,7 +30,7 @@
 					<Entry varId="ffEnableHighlightEffect" 	value="true"/>
 					<Entry varId="ffEnableCorpseEffect" 	value="true"/>
 					<Entry varId="ffEnableMonsterEffect" 	value="true"/>
-					<Entry varId="ffVersion" 				value="1.4"/>
+					<Entry varId="ffVersion" 				value="1.5"/>
 				</Preset>
 			</PresetsArray>
 			<VisibleVars>
