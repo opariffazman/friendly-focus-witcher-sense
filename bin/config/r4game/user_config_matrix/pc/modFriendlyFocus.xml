@@ -2,22 +2,7 @@
 <UserConfig>
 		<Group id="FriendlyFocus" displayName="Mods.ff_name">
 			<PresetsArray>
-				<Preset id="0" displayName="ff_recommended">
-					<Entry varId="ffEnableDimmEffect" 		value="false"/>
-					<Entry varId="ffEnableSoundEffect" 		value="false"/>
-					<Entry varId="ffEnableFadeEffect" 		value="false"/>
-					<Entry varId="ffEnableAmbientEffect" 	value="false"/>
-					<Entry varId="ffEnableZoomEffect" 		value="false"/>
-					<Entry varId="ffEnableJumpBlock" 		value="false"/>
-					<Entry varId="ffEnableSprintBlock" 		value="false"/>
-					<Entry varId="ffEnableHoldFocus" 		value="false"/>
-					<Entry varId="ffEnableCatFocus" 		value="false"/>
-					<Entry varId="ffEnableHighlightEffect" 	value="false"/>
-					<Entry varId="ffEnableCorpseEffect" 	value="false"/>
-					<Entry varId="ffEnableMonsterEffect" 	value="false"/>
-					<Entry varId="ffVersion" 				value="1.6"/>
-				</Preset>
-				<Preset id="1" displayName="ff_vanilla">
+				<Preset id="0" displayName="ff_vanilla">
 					<Entry varId="ffEnableDimmEffect" 		value="true"/>
 					<Entry varId="ffEnableSoundEffect" 		value="true"/>
 					<Entry varId="ffEnableFadeEffect" 		value="true"/>
@@ -30,7 +15,22 @@
 					<Entry varId="ffEnableHighlightEffect" 	value="true"/>
 					<Entry varId="ffEnableCorpseEffect" 	value="true"/>
 					<Entry varId="ffEnableMonsterEffect" 	value="true"/>
-					<Entry varId="ffVersion" 				value="1.6"/>
+					<Entry varId="ffVersion" 				value="1.7"/>
+				</Preset>
+				<Preset id="1" displayName="ff_recommended">
+					<Entry varId="ffEnableDimmEffect" 		value="false"/>
+					<Entry varId="ffEnableSoundEffect" 		value="false"/>
+					<Entry varId="ffEnableFadeEffect" 		value="false"/>
+					<Entry varId="ffEnableAmbientEffect" 	value="true"/>
+					<Entry varId="ffEnableZoomEffect" 		value="false"/>
+					<Entry varId="ffEnableJumpBlock" 		value="false"/>
+					<Entry varId="ffEnableSprintBlock" 		value="false"/>
+					<Entry varId="ffEnableHoldFocus" 		value="true"/>
+					<Entry varId="ffEnableCatFocus" 		value="true"/>
+					<Entry varId="ffEnableHighlightEffect" 	value="true"/>
+					<Entry varId="ffEnableCorpseEffect" 	value="false"/>
+					<Entry varId="ffEnableMonsterEffect" 	value="false"/>
+					<Entry varId="ffVersion" 				value="1.7"/>
 				</Preset>
 			</PresetsArray>
 			<VisibleVars>
