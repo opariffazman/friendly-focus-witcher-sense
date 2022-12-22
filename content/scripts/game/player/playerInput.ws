@@ -1655,7 +1655,8 @@ class CPlayerInput
 		}
 		else if(IsActionAllowed(EIAB_ExplorationFocus) && !GetWitcherPlayer().IsCurrentSignChanneled()) 
 		{
-			if ( theGame.GetInGameConfigWrapper().GetVarValue('FriendlyFocus', 'ffEnableHoldFocus') ) // modFriendlyFocus
+			// --modFriendlyFocus
+			if ( theGame.GetInGameConfigWrapper().GetVarValue('FriendlyFocus', 'ffEnableHoldFocus') )
 			{
 			if( IsPressed( action ) )
 			{
@@ -1691,7 +1692,8 @@ class CPlayerInput
 						theGame.GetFocusModeController().Activate();
 					}
 				}
-			} // modFriendlyFocus
+			} 
+			// modFriendlyFocus--
 		}
 		else
 		{
