@@ -7,7 +7,7 @@
 ; $local = 'ar','br','cz','de','en','es','fr','hu','it','jp','kr','ru','zh','pl'
 2117167000|        |panel_Mods|Mods
 2117167001|        |panel_ff_name|Friendly Focus
-2117167002|        |preset_Mods_ff_name|Version 1.5
+2117167002|        |preset_Mods_ff_name|Version 1.6
 2117167003|        |preset_value_ff_recommended|Recommended
 2117167004|        |preset_value_ff_vanilla|Vanilla
 2117167005|        |option_ff_enableDimmEffect|Screen Dimm Effect Entering Focus
